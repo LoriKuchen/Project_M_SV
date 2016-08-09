@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Project_M_SV
-//
-//  Created by Lori Kuchen on 22.07.16.
-//  Copyright © 2016 Lori Kuchen. All rights reserved.
-//
-
 import UIKit
 
 class ViewController : UIViewController {
@@ -19,7 +11,4 @@ class ViewController : UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
 }
-
